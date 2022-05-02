@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "NinjaCat_walk_sword_01.png",
+	"frame": {"x":0,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+{
+	"filename": "NinjaCat_walk_sword_02.png",
+	"frame": {"x":256,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+{
+	"filename": "NinjaCat_walk_sword_03.png",
+	"frame": {"x":512,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+{
+	"filename": "NinjaCat_walk_sword_04.png",
+	"frame": {"x":768,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+{
+	"filename": "NinjaCat_walk_sword_05.png",
+	"frame": {"x":1024,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+{
+	"filename": "NinjaCat_walk_sword_06.png",
+	"frame": {"x":1280,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+{
+	"filename": "NinjaCat_walk_sword_07.png",
+	"frame": {"x":1536,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+{
+	"filename": "NinjaCat_walk_sword_08.png",
+	"frame": {"x":1792,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "walk.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":222},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:99c4f6cc731ca2cda1066649b7aec2f6:b48c739720bfbae8e1d459b309bd4526:f9e905ee92ca6262c513e44422b15402$"
+}
+}

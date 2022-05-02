@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "NinjaCat_idlesword_01.png",
+	"frame": {"x":0,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+{
+	"filename": "NinjaCat_idlesword_02.png",
+	"frame": {"x":256,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "idle.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":222},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a130d411499c5ab035e7f2b97ed9e173:e3d7884b5333ae69c8bbc3fde70ea9f0:585717d7804995c87573698b70e44cb4$"
+}
+}

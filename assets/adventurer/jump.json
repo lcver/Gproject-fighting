@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "adventurer-crnr-jmp-00-1.3.png",
+	"frame": {"x":0,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37}
+},
+{
+	"filename": "adventurer-crnr-jmp-01-1.3.png",
+	"frame": {"x":50,"y":0,"w":50,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":37},
+	"sourceSize": {"w":50,"h":37}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jump.png",
+	"format": "RGBA8888",
+	"size": {"w":100,"h":37},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ca6fa3aefb83f55f0440dbba29b0628e:562ae3801253c956761f0c90f742ed95:56c9fa24931e40777fe0ddacfe328adf$"
+}
+}

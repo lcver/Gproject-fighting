@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "NinjaCat_jump_sword_05.png",
+	"frame": {"x":0,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+{
+	"filename": "NinjaCat_jump_sword_06.png",
+	"frame": {"x":256,"y":0,"w":256,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":222},
+	"sourceSize": {"w":256,"h":222}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fall.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":222},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4668fd2c93bbcd8e7cad58ce4eed10c1:541e2d11f21ba183c961bba5731a8b9f:10d8948b900fb843ab7e2f3ae32da3a2$"
+}
+}
